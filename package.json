@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio4_node",
+  "version": "1.0.0",
+  "description": "Ejercicio 4 de Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Javier Rozalén",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
